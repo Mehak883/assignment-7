@@ -13,7 +13,6 @@ int main()
     {
         c = a + b;
         printf("%d ", c);
-        a = a + b;
         a = b;
         b = c;
     }
